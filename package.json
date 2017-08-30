@@ -1,0 +1,24 @@
+{
+  "name": "codegames",
+  "version": "1.0.0",
+  "description": "final game",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laureenpe/codeGames.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laureenpe/codeGames/issues"
+  },
+  "homepage": "https://github.com/laureenpe/codeGames#readme"
+}
